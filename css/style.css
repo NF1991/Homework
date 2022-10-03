@@ -69,7 +69,7 @@ nav ul li{
 .content {
     height:100%;
     width: 100%;
-    background-image:url(/img/background.png);
+    background-image:url(../img/background.png);
     background-position:center;
     background-size: cover;
     position: relative;
